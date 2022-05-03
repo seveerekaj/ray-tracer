@@ -192,9 +192,9 @@ if __name__ == "__main__":
         .withSpheres(sphere_orange, sphere_yellow, sphere_cyan) \
         .withTriangles(triangle_scene3_6_1)
 
-    # scene1_prog5.raytrace().saveImage("program_5-scene_1_jake.png")
-    # scene2_prog5.raytrace().saveImage("program_5-scene_2_jake.png")
-    # scene3_prog5.raytrace().saveImage("program_5-scene_3_jake.png")
-    scene1_prog6.raytrace().saveImage("program_6-scene_1_jake.png")
-    scene2_prog6.raytrace().saveImage("program_6-scene_2_jake.png")
-    scene3_prog6.raytrace().saveImage("program_6-scene_3_jake.png")
+    # scene1_prog5.raytrace().saveImage("program5-scene1.png")
+    # scene2_prog5.raytrace().saveImage("program5-scene2.png")
+    # scene3_prog5.raytrace().saveImage("program5-scene3.png")
+    scene1_prog6.raytrace().saveImage("scene1.png")
+    scene2_prog6.raytrace().saveImage("scene2.png")
+    scene3_prog6.raytrace().saveImage("scene3.png")
